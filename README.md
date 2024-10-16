@@ -1,7 +1,5 @@
 # graceneitz
  
-hello!
-
 Resume
 Grace Neitz
 

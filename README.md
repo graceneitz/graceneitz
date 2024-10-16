@@ -1,6 +1,5 @@
 # graceneitz
  
-
 Resume
 Grace Neitz
 

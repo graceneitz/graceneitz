@@ -1,8 +1,8 @@
 # graceneitz
 
 <p>
-  <img width="20" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/a5b3b9ad-eb69-42e1-9c44-bc97f68a9a53" />
-  graceneitz@gmail.com
+  <img width="15" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/a5b3b9ad-eb69-42e1-9c44-bc97f68a9a53" />
+    graceneitz@gmail.com
 </p>
 
 Resume

@@ -2,7 +2,7 @@
 
 <p>
   <img 
-    src="[https://imgur.com/a/sX1BRlM](https://imgur.com/qg44Pee)"
+    src="https://imgur.com/a/sX1BRlM"
     width="20" 
     style="vertical-align: middle; margin: 0; padding: 0; border: none; outline: none;" />
     graceneitz@gmail.com

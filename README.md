@@ -1,9 +1,9 @@
 # graceneitz
 
-<table>
+<table style="border: none">
   <tr>
-    <td>
-      <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f27abec5-f3b2-4b7f-b3f0-052bfe257c56" />
+    <td style="vertical-align: middle">
+      <img width="20" height="20" src="https://github.com/user-attachments/assets/f27abec5-f3b2-4b7f-b3f0-052bfe257c56" />
     </td>
     <td>
       <p>graceneitz@gmail.com</p>

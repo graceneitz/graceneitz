@@ -1,11 +1,11 @@
 # graceneitz
 
-<table style="border: none">
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="vertical-align: middle">
-      <img width="20" height="20" src="https://github.com/user-attachments/assets/f27abec5-f3b2-4b7f-b3f0-052bfe257c56" />
+    <td style="border: none; vertical-align: middle;">
+      <img width="20" height="20" src="https://github.com/user-attachments/assets/a5b3b9ad-eb69-42e1-9c44-bc97f68a9a53" />
     </td>
-    <td>
+    <td style="border: none; vertical-align: middle;">
       <p>graceneitz@gmail.com</p>
     </td>
   </tr>

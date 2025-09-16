@@ -1,6 +1,15 @@
 # graceneitz
 
-<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/f27abec5-f3b2-4b7f-b3f0-052bfe257c56" />
+<table>
+  <tr>
+    <td>
+      <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f27abec5-f3b2-4b7f-b3f0-052bfe257c56" />
+    </td>
+    <td>
+      <p>graceneitz@gmail.com</p>
+    </td>
+  </tr>
+</table>
 
 Resume
 Grace Neitz

@@ -1,7 +1,10 @@
 # graceneitz
 
 <p>
-  <img width="15" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/a5b3b9ad-eb69-42e1-9c44-bc97f68a9a53" />
+  <img 
+  src="https://github.com/user-attachments/assets/1b545a8f-ad5e-4346-867f-69f5b2050359"  width="20" 
+  height="20" 
+  style="vertical-align: middle; margin: 0; padding: 0; border: none; outline: none;" />
     graceneitz@gmail.com
 </p>
 

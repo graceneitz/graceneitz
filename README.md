@@ -2,9 +2,9 @@
 
 <p>
   <img 
-  src="https://github.com/user-attachments/assets/1b545a8f-ad5e-4346-867f-69f5b2050359"  width="20" 
-  height="20" 
-  style="vertical-align: middle; margin: 0; padding: 0; border: none; outline: none;" />
+    src="https://imgur.com/a/sX1BRlM"
+    width="20" 
+    style="vertical-align: middle; margin: 0; padding: 0; border: none; outline: none;" />
     graceneitz@gmail.com
 </p>
 

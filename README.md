@@ -1,15 +1,9 @@
 # graceneitz
 
-<table>
-  <tr style="height: 20;">
-    <td style="vertical-align: middle;">
-      <img width="20" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/a5b3b9ad-eb69-42e1-9c44-bc97f68a9a53" />
-    </td>
-    <td>
-      <p>graceneitz@gmail.com</p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img width="20" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/a5b3b9ad-eb69-42e1-9c44-bc97f68a9a53" />
+  graceneitz@gmail.com
+</p>
 
 Resume
 Grace Neitz

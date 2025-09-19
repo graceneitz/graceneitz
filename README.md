@@ -1,7 +1,7 @@
 # graceneitz
 
 <div>
-  <img src="https://raw.githubusercontent.com/graceneitz/graceneitz/blob/main/icons8-email-100.png" style="vertical-align: center;" width="20"/>
+  <img src="https://raw.githubusercontent.com/graceneitz/graceneitz/main/icons8-phone-100.png" style="vertical-align: center;" width="20"/>
   <span>graceneitz@gmail.com</span>
 </div>
 

@@ -1,6 +1,13 @@
 # graceneitz
 
-![Availability Icon](./icons8-availability-100.png)
+<div>
+  <img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-email-100.png" style="width: 20; vertical-align: center;"/>
+  <span>graceneitz@gmail.com</span>
+</div>
+
+<img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-phone-100.png" width="20" />
+
+<img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-location-100.png" width="20" />
 
 <img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-availability-100.png" width="20" />
 

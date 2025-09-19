@@ -1,8 +1,10 @@
 # graceneitz
 
 <div>
-  <img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-phone-100.png" width="20"/>
-  <span style="padding-bottom: 4;" >graceneitz@gmail.com</span>
+  <a href="https://raw.githubusercontent.com/graceneitz/graceneitz/main/icons8-email-100.png" style="vertical-align: middle; padding: 0; margin: 0;">
+    <img src="https://raw.githubusercontent.com/graceneitz/graceneitz/main/icons8-email-100.png" width="20" height="20" style="vertical-align: middle; display: inline-block;" />
+</a>
+  <span>graceneitz@gmail.com</span>
 </div>
 
 <img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-phone-100.png" width="20" />

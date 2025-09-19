@@ -1,9 +1,9 @@
 # graceneitz
 
-<div>
-  <img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-email-100.png" width="20" />
-  <span style="line-height:1.2; vertical-align:middle;">graceneitz@gmail.com</span>
-</div>
+
+<img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-email-100.png" width="20" height="20" style="vertical-align: middle;" />
+<span style="vertical-align: middle;">graceneitz@gmail.com</span>
+
 
 <img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-phone-100.png" width="20" />
 

@@ -1,5 +1,6 @@
 # graceneitz
 
+![Availability Icon](./icons8-availability-20.png)
 
 Resume
 Grace Neitz

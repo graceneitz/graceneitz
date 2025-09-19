@@ -1,6 +1,6 @@
 # graceneitz
 
-![Availability Icon](./icons8-availability-20.png)
+![Availability Icon](./icons8-availability-100.png)
 
 Resume
 Grace Neitz

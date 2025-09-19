@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-email-100.png" width="20" />
-  <span style="padding-bottom: 4px;">graceneitz@gmail.com</span>
+  <span style=style="display:inline-block; vertical-align: middle;">graceneitz@gmail.com</span>
 </div>
 
 <img src="https://github.com/graceneitz/graceneitz/blob/main/icons8-phone-100.png" width="20" />
